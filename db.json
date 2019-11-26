@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Buy a cow" },
-    { "id": 2, "title": "Tell cow to make milk" },
-    { "id": 3, "title": "Profit" }
+    { "id": 'd8b4dc73-f4dd-4671-b437-db36b86f0995, "title": "Buy a cow", "created": "26/11/2019", "deadline":"26/11/2019"},
+    { "id": 'a3e487fb-2a94-4974-9742-1fbe2c94db4f', "title": "Tell cow to make milk", "created": "26/11/2019", "deadline":"26/11/2019" },
+    { "id": '6b23071d-c26e-452d-acfd-369df57560f1', "title": "Profit", "created": "26/11/2019", "deadline":"26/11/2019" }
   ]
 }
